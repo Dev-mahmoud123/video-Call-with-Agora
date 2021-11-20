@@ -8,6 +8,6 @@ class AgoraManager {
   }
 
   static String get channelName {
-    return "channel2";
+    return "channel3";
   }
 }
